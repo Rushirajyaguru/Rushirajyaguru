@@ -11,16 +11,16 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 
 # 💫 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 B.Tech Computer Science Engineering Student 
 
-💻 Passionate about **Java, Data Structures & Algorithms, Full-Stack Development, and Artificial Intelligence**
+💻 Passionate about **Java, Data Structures & Algorithms, Full-Stack Development, and Artificial Intelligence/Machine Learning, React Js**
 
 🚀 Completed **2 Technical Internships**
 - 🌐 **WordPress Development Intern** (15 Days)
 - ⚛️ **React.js Developer Intern** (1.5 Months) at **Brainy Beams**
 
 🧠 Currently exploring
-- Artificial Intelligence
+- Artificial Intelligence/Machine Learning
 - Modern Web Technologies
 - Backend Development
 - Cloud & DevOps
@@ -36,6 +36,8 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -59,7 +61,6 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
@@ -68,7 +69,7 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 - ☕ Mastering Java & DSA
 - ⚛️ Building Full-Stack MERN Applications
 - 🤖 Exploring Artificial Intelligence & Machine Learning
-- ☁️ Learning Cloud & DevOps Fundamentals
+- ☁️ Learning Cloud & DevOps Fundamentals & AWS 
 - 💡 Contributing to Open Source Projects
 
 ---
@@ -82,14 +83,6 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushirajyaguru&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rushirajyaguru&theme=tokyonight&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -118,19 +111,12 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 
 # 🤝 Let's Connect
 
-<p align="left">
-<a href="https://github.com/Rushirajyaguru">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/rushi-rajyaguru/?skipRedirect=true)"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+
 
 ---
 
