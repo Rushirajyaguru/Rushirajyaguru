@@ -112,9 +112,14 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 # 🤝 Let's Connect
 
 
-<a href="https://www.linkedin.com/in/rushi-rajyaguru/">
-<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/rushi-rajyaguru/?skipRedirect=true"/>
+<a href="https://www.linkedin.com/in/rushi-rajyaguru">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+
+<a href="rushirajyaguru21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
 
 
