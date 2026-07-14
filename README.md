@@ -89,7 +89,7 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 
 # 📊 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushirajyaguru&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushirajyaguru&theme=tokyo-night)](https://github.com/Rushirajyaguru/github-readme-activity-graph)
 
 ---
 
